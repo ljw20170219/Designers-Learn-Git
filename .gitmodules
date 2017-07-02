@@ -1,0 +1,3 @@
+[submodule "myText"]
+	path = myText
+	url = https://github.com/ljw20170219/myText.git
